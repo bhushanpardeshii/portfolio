@@ -13,10 +13,10 @@ const Home = () => {
 
             <span className="text-lg">
               Software Developer</span>
-            <h1 className="h1 mb-6">Hello I'm<br />
+            <h1 className="h1 mb-6">Hello Im<br />
               <span className="text-accent">Bhushan Pardeshi</span>
             </h1>
-            <p className="max-w-[500px] mb-9 text-white/80">Enthusiastic and motivated recent graduate with a Bachelor's degree in Computer Science. Eager to launch a career as a Web Developer. Quick learner with a passion for problem-solving and a commitment to writing clean, efficient code. Adept at collaborating in team environments and excited to contribute to innovative software projects.</p>
+            <p className="max-w-[500px] mb-9 text-white/80">Enthusiastic and motivated recent graduate with a Bachelors degree in Computer Science. Eager to launch a career as a Web Developer. Quick learner with a passion for problem-solving and a commitment to writing clean, efficient code. Adept at collaborating in team environments and excited to contribute to innovative software projects.</p>
             <div className="flex flex-col lg:flex-row items-center gap-8">
               <a href="/public/Bhushan-Pardeshi-Resume.pdf" download>
                 <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">

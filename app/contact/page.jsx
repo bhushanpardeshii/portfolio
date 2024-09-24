@@ -62,8 +62,8 @@ const Contact = () => {
                 <div className="flex flex-col lg:flex-row gap-[30px]">
                     <div className="lg:w-[54%] order-2 lg:order-none">
                         <form onSubmit={handleSubmit} className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl ">
-                            <h3 className="text-4xl text-accent">Let's work together</h3>
-                            <p className="text-white/60">I’d love to hear from you! Please fill out the form below with your name, email, and message.
+                            <h3 className="text-4xl text-accent">Lets work together</h3>
+                            <p className="text-white/60">I would love to hear from you! Please fill out the form below with your name, email, and message.
                                 Your inquiries and feedback are appreciated!</p>
                             <div className="grid grids-cols-1 md:grid-cols-2 gap-6">
                                 <Input name="firstname" type="firstname" placeholder="Firstname" />
