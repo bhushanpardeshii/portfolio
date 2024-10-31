@@ -5,18 +5,24 @@ import { motion } from "framer-motion"
 const project = [
     {
         num: "01",
+        title: "AI Course",
+        description: " AI-powered course creation platform enables users to design and develop courses on a wide range of topics with the help of AI. After creating a course, it is saved to a database, making it accessible for other users to explore and learn from. The AI assists with structuring content, enhancing course material, and tailoring it for different learning levels, creating a collaborative and dynamic educational environment where users can both create and discover engaging courses.",
+        href: "https://ai-course-omega.vercel.app/"
+    },
+    {
+        num: "02",
         title: "Story Guy",
         description: "An AI-powered full stack story generator that allows users to interact with characters by asking questions, creating a dynamic and immersive storytelling experience. This project combines natural language processing with AI to bring stories to life, letting users explore different narrative paths and engage directly with characters.",
         href: "https://storyguy-frontend.vercel.app/"
     },
     {
-        num: "02",
+        num: "03",
         title: "Gemini AI",
         description: "An AI-powered conversational tool that mimics Google's Gemini AI. It lets users ask questions and receive intelligent, context-aware responses, showcasing the potential of generative AI in dynamic conversations.",
         href: "https://geminiclo.netlify.app/"
     },
     {
-        num: "03",
+        num: "04",
         title: "Ecomm",
         description: "An e- commerce website with a shopping cart feature that allows users to browse products, add items to their cart, and apply discount coupons.The cart functionality ensures a smooth shopping experience by updating quantities, showing the total price, and offering a secure checkout process",
         href: "https://ecomm-ten-ruby.vercel.app/"
