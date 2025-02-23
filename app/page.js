@@ -22,7 +22,7 @@ const Home = () => {
             <TextGenerateEffect className="max-w-[650px] mb-9 text-white/80" words={words} />
 
             <div className="flex flex-col lg:flex-row items-center gap-8">
-              <a href="/public/Bhushan-Pardeshi-Resume.pdf" download>
+              <a href="/Bhushan_Pardeshi_Resume.pdf" download>
                 <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
                   <span>Download CV</span>
                   <FiDownload className="text-lg" />
