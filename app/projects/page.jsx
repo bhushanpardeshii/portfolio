@@ -17,15 +17,15 @@ const project = [
     },
     {
         num: "03",
-        title: "Gemini AI",
-        description: "An AI-powered conversational tool that mimics Google's Gemini AI. It lets users ask questions and receive intelligent, context-aware responses, showcasing the potential of generative AI in dynamic conversations.",
-        href: "https://geminiclo.netlify.app/"
+        title: "EtherWatch",
+        description: "Etherwatch is a real-time Ethereum monitoring solution that tracks smart contract balances and provides instant notifications via a user-friendly Telegram bot. Built on Alchemy's secure Ethereum API, it supports monitoring multiple contracts simultaneously, offering fast setup with simple commands. Etherwatch ensures users stay informed about critical changes effortlessly.",
+        href: "https://ether-watch.vercel.app/"
     },
     {
         num: "04",
-        title: "Ecomm",
-        description: "An e- commerce website with a shopping cart feature that allows users to browse products, add items to their cart, and apply discount coupons.The cart functionality ensures a smooth shopping experience by updating quantities, showing the total price, and offering a secure checkout process",
-        href: "https://ecomm-ten-ruby.vercel.app/"
+        title: "TweetSage",
+        description: "TweetSage is an AI-powered tool that helps users understand terms and concepts in tweets instantly. By tagging @TweetSage_AI in a reply, users receive clear, concise explanations without leaving Twitter/X. It provides contextual understanding by analyzing entire threads for more accurate responses. This makes it ideal for those looking to decode complex tweets effortlessly.",
+        href: "https://tweetsage.vercel.app/"
     }
 ]
 const Projects = () => {
