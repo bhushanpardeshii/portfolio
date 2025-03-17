@@ -53,7 +53,7 @@ const experience = {
         {
             company: "Infomanav",
             position: "Frontend Developer Intern",
-            duration: "March 2024-May 2024"
+            duration: "March 2024-Aug 2024"
         },
         {
             company: "Centralogic",
